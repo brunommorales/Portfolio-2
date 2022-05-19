@@ -31,7 +31,7 @@ ul {
 a {
     color: white;
     text-decoration: none;
-    padding: 5px;
+    padding: 3px;
     border: solid 3px transparent;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #9358F7, #10D7E2);
     background-origin: border-box;
