@@ -66,8 +66,8 @@ header > div > img{
 main {
     min-width: 300px;
     max-width: 850px;
-    margin: auto;
-    padding: 20px;
+    margin: 50px;
+    
     margin-bottom: 15px;
     background-color: black;
     color: #F4F4F4;
