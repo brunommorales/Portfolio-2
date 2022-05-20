@@ -15,10 +15,11 @@ body{
     color: white;
     background-color: black;
     font-family: var(--fonte-padrão);
+    margin: 0px;
 }
 
 .container {
-    padding: 0px 20px;
+    
 }
 
 ul {
@@ -51,6 +52,9 @@ a:hover {
     transition-duration: 0.5s;
 }
 
+header {
+    padding: 0px 16px;
+}
 header > div > img{
     width: 150px;
     height: 150px;
